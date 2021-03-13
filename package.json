@@ -50,7 +50,7 @@
     "vuex-persistedstate": "^2.5.2",
     "vuex-router-sync": "^5.0.0",
     "xml-js": "^1.6.8",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
